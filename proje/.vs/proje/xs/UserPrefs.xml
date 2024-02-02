@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{88E573A6-6C56-493C-82BF-F1235A00D4DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="proje/Calısanlar.cs">
+    <Files>
+      <File FileName="proje/urunsatış.cs" Line="1" Column="1" />
+      <File FileName="proje/test.cs" Line="177" Column="22" />
+      <File FileName="proje/sepet (kopyala).cs" Line="46" Column="31" />
+      <File FileName="proje/Calısanlar.cs" Line="297" Column="22" />
+      <File FileName="proje/prg(hayvanürün).cs" Line="136" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proje" expanded="True">
+            <Node name="proje" expanded="True">
+              <Node name="Calısanlar.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.proje PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
